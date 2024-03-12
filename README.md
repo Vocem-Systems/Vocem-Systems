@@ -1,6 +1,4 @@
-# Presentación del Repositorio 👋
-
-¡Bienvenido al repositorio de Control de Versiones para los sistemas Vocem! :computer:
+# ¡Bienvenido al repositorio de Control de Versiones para los sistemas Vocem! 👋 :computer:
 
 En este repositorio, mantenemos un registro actualizado de las versiones de los sistemas Vocem, garantizando la trazabilidad y la colaboración efectiva en el desarrollo de software. Aquí encontrarás información detallada sobre las diferentes versiones de nuestros sistemas, así como recursos adicionales para facilitar el proceso de desarrollo. :chart_with_upwards_trend:
 
